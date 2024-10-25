@@ -4,3 +4,4 @@ desafio seven days of code sobre o github
 ## 2nd - criar no seu repositório os arquivos HTML e CSS, fazer o upload da pasta “images”;
 ## 3rd - clonar repositorio remoto para repositorio local;
 ## 4th - modificar index.html e realizar commits pelo teminall;
+## 5th - reverter commit falho;
